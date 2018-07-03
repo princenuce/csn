@@ -44,7 +44,8 @@ class SearchController extends Controller {
         $downloads = $this->filter_downloads($html);
         $durations = $this->filter_durations($html);
 
-        $songs = [];
+        $songs          = [];
+        $unique_id_list = [];
         foreach ($infos as $key => $info) {
             preg_match('#[^~]+?(?=\.html)#', $info[0], $unique_id);
 
