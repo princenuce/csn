@@ -46,6 +46,7 @@ class SearchController extends Controller {
         //dd($infos, $downloads, $durations);
         $songs          = [];
         $unique_id_list = [];
+        $data           = [];
         foreach ($infos as $key => $info) {
             preg_match('#[^~]+?(?=\.html)#', $info[0], $unique_id);
 
