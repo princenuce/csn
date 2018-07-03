@@ -43,7 +43,7 @@ class SearchController extends Controller {
         $infos     = $this->filter_infos($html);
         $downloads = $this->filter_downloads($html);
         $durations = $this->filter_durations($html);
-
+        dd($infos, $downloads, $durations);
         $songs          = [];
         $unique_id_list = [];
         foreach ($infos as $key => $info) {
