@@ -529,28 +529,10 @@
 			}
 		},
 		{
-			"file": "resources/views/template-pc/blocks/mainbar.blade.php",
-			"settings":
-			{
-				"buffer_size": 111,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "resources/views/template-pc/blocks/header.blade.php",
 			"settings":
 			{
-				"buffer_size": 84,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "resources/views/template-pc/blocks/sidebar.blade.php",
-			"settings":
-			{
-				"buffer_size": 114,
+				"buffer_size": 41,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -568,25 +550,25 @@
 			"file": "resources/views/template-pc/song.blade.php",
 			"settings":
 			{
-				"buffer_size": 996,
+				"buffer_size": 800,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
+			"file": "/D/source/lagu123/resources/views/lagu9/app.blade.php",
 			"settings":
 			{
-				"buffer_size": 8466,
+				"buffer_size": 5343,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/source/lagu123/resources/views/lagu123/search.blade.php",
+			"file": "/D/source/lagu123/resources/views/lagu9/main.blade.php",
 			"settings":
 			{
-				"buffer_size": 1342,
+				"buffer_size": 2472,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -595,7 +577,16 @@
 			"file": "/D/source/lagu123/public/file.lagu123.com/index.php",
 			"settings":
 			{
-				"buffer_size": 11826,
+				"buffer_size": 12167,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/source/lagu123/resources/views/lagu9/lagu9dlvideo.blade.php",
+			"settings":
+			{
+				"buffer_size": 2145,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -625,15 +616,6 @@
 				"buffer_size": 2002,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/CSN/SearchController.php",
-			"settings":
-			{
-				"buffer_size": 4145,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -776,7 +758,6 @@
 		"/D/source/lagu123/public/file.lagu123.com",
 		"/D/source/lagu123/resources",
 		"/D/source/lagu123/resources/views",
-		"/D/source/lagu123/resources/views/lagu123",
 		"/D/source/laravel",
 		"/D/source/laravel/blog",
 		"/D/source/laravel/blog/app",
@@ -800,23 +781,26 @@
 	],
 	"file_history":
 	[
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/sidebar.blade.php",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/mainbar.blade.php",
+		"/D/source/laravel/blog/app/Http/Controllers/CSN/SearchController.php",
+		"/D/source/lagu123/public/file.lagu123.com/index.php",
+		"/D/source/lagu123/resources/views/lagu123/search.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
 		"/D/source/laravel/blog/resources/views/template-pc/search.blade.php",
 		"/D/source/laravel/blog/resources/assets/js/components/ExampleComponent.vue",
 		"/D/source/laravel/blog/resources/views/template-pc/layout.blade.php",
 		"/D/source/laravel/blog/public/css/app.css",
 		"/D/source/laravel/blog/config/app.php",
-		"/D/source/laravel/blog/resources/views/template-pc/blocks/mainbar.blade.php",
 		"/D/source/laravel/blog/routes/web.php",
 		"/D/source/laravel/blog/app/Models/Song.php",
 		"/D/source/lagu123/.env",
 		"/C/Users/Ok PC/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
 		"/C/Users/Ok PC/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
 		"/D/source/laravel/blog/database/migrations/2018_06_28_070441_create_songs.php",
-		"/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
 		"/D/source/lagu123/app/Library/Services/Glob.php",
 		"/D/source/lagu123/public/css/lagu9.scss",
 		"/D/source/lagu123/resources/views/lagu9/block/style.blade.php",
-		"/D/source/lagu123/resources/views/lagu123/search.blade.php",
 		"/D/source/lagu123/resources/views/lagu9/search.blade.php",
 		"/D/source/lagu123/routes/web.php",
 		"/D/source/lagu123/public/css/app.scss",
@@ -923,11 +907,8 @@
 		"/D/source/laravel/blog/resources/assets/js/bootstrap.js",
 		"/D/source/laravel/blog/resources/views/template-pc/blocks/content.blade.php",
 		"/D/source/laravel/blog/package.json",
-		"/D/source/laravel/blog/resources/views/template-pc/blocks/sidebar.blade.php",
 		"/D/source/laravel/blog/resources/views/template-pc/index.blade.php",
-		"/D/source/laravel/blog/resources/views/template-pc/blocks/footer.blade.php",
-		"/D/source/laravel/blog/public/css/app.min.css",
-		"/D/source/laravel/blog/resources/views/layout.blade.php"
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/footer.blade.php"
 	],
 	"find":
 	{
@@ -1125,7 +1106,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -1141,8 +1122,8 @@
 						"selection":
 						[
 							[
-								959,
-								959
+								768,
+								784
 							]
 						],
 						"settings":
@@ -1153,57 +1134,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 468.0,
+						"translation.y": 824.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "resources/views/template-pc/blocks/mainbar.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "resources/views/template-pc/blocks/header.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 41,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								77,
-								77
+								34,
+								34
 							]
 						],
 						"settings":
@@ -1217,40 +1168,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "resources/views/template-pc/blocks/sidebar.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 114,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								109,
-								5
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "app/Models/Song.php",
 					"semi_transient": false,
 					"settings":
@@ -1276,24 +1198,148 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "resources/views/template-pc/song.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 996,
+						"buffer_size": 800,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								263,
-								263
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/source/lagu123/resources/views/lagu9/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4243,
+								4243
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/source/lagu123/resources/views/lagu9/main.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								827,
+								873
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/source/lagu123/public/file.lagu123.com/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10794,
+								10794
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4386.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/source/lagu123/resources/views/lagu9/lagu9dlvideo.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
 							]
 						],
 						"settings":
@@ -1311,99 +1357,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8466,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2673,
-								2673
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2054.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/D/source/lagu123/resources/views/lagu123/search.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1342,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1312,
-								924
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 390.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
 					"buffer": 8,
-					"file": "/D/source/lagu123/public/file.lagu123.com/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11826,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2323,
-								2323
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1638.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
 					"file": "routes/web.php",
 					"semi_transient": false,
 					"settings":
@@ -1429,11 +1383,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 9,
 					"file": "resources/assets/sass/app.scss",
 					"semi_transient": false,
 					"settings":
@@ -1456,14 +1410,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 468.0,
+						"translation.y": 383.2,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "app/Library/Helper.php",
 					"semi_transient": false,
 					"settings":
@@ -1475,8 +1429,8 @@
 						"selection":
 						[
 							[
-								595,
-								595
+								640,
+								643
 							]
 						],
 						"settings":
@@ -1487,40 +1441,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 398.4,
+						"translation.y": 1016.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/Http/Controllers/CSN/SearchController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								606,
-								414
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 223.2,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
