@@ -1,0 +1,1735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"songs",
+				"songs_not_inserted"
+			],
+			[
+				"uni",
+				"unique_id_list"
+			],
+			[
+				"inse",
+				"inserted"
+			],
+			[
+				"son",
+				"$songs〔variable〕"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"song",
+				"$songs_inserted〔variable〕"
+			],
+			[
+				"dow",
+				"$downloads〔variable〕"
+			],
+			[
+				"file",
+				"filter_infos〔function〕"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"du",
+				"$durations〔variable〕"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"preg_match",
+				"preg_match_all"
+			],
+			[
+				"csrf_",
+				"csrf_token\tL5 Csrf Token"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"preg_repl",
+				"preg_replace_callback〔function〕"
+			],
+			[
+				"preg_m",
+				"preg_match_all"
+			],
+			[
+				"Req",
+				"Request::all\tGet all of the input and files for the request."
+			],
+			[
+				"Rela",
+				"Relation〔class〕"
+			],
+			[
+				"So",
+				"SongException〔namespace〕"
+			],
+			[
+				"array_col",
+				"array_column〔function〕"
+			],
+			[
+				"re",
+				"$related〔variable〕"
+			],
+			[
+				"rel",
+				"$relation〔variable〕"
+			],
+			[
+				"is",
+				"is_null($song"
+			],
+			[
+				"uniq",
+				"unique_id"
+			],
+			[
+				"link",
+				"link_play"
+			],
+			[
+				"fil",
+				"filter_related〔function〕"
+			],
+			[
+				"Song",
+				"SongException"
+			],
+			[
+				"rea",
+				"real_url"
+			],
+			[
+				"form",
+				"format_number"
+			],
+			[
+				"index",
+				"indexs"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"filter",
+				"filter_text"
+			],
+			[
+				"genr",
+				"genre_link"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"c",
+				"category"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"bre",
+				"b4:breadcrumb\tbreadcrumb"
+			],
+			[
+				"cen",
+				"center\ttext-align"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"Chap",
+				"ChapException"
+			],
+			[
+				"Redi",
+				"Redirect::to\tRedirect to URL, Route or Controller"
+			],
+			[
+				"u",
+				"use"
+			],
+			[
+				"C",
+				"Content〔namespace〕"
+			],
+			[
+				"ct",
+				"ctl42"
+			],
+			[
+				"get",
+				"get_hidden_fields〔function〕"
+			],
+			[
+				"inpu",
+				"$inputs〔variable〕"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"iss",
+				"isset_capcha"
+			],
+			[
+				"set",
+				"setcookie〔function〕"
+			],
+			[
+				"ENT",
+				"ENT_NOQUOTES〔constant〕"
+			],
+			[
+				"strip",
+				"strip_tags〔function〕"
+			],
+			[
+				"for",
+				"foreach〔keyword〕"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"next",
+				"next_chap"
+			],
+			[
+				"cont",
+				"$content〔variable〕"
+			],
+			[
+				"get_p",
+				"get_parts_from_database"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"req",
+				"require_once〔keyword〕"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"cap",
+				"capcha_cookie"
+			],
+			[
+				"array_co",
+				"array_combine〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"get_",
+				"get_hidden_fields"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"ab",
+				"abort\tL5 Abort"
+			],
+			[
+				"url",
+				"urldecode〔function〕"
+			],
+			[
+				"curl_err",
+				"curl_error"
+			],
+			[
+				"curl",
+				"curl_getinfo"
+			],
+			[
+				"fi",
+				"file_exists"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"tran",
+				"transparent\tbackground"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"hi",
+				"hidden\toverflow"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"b4con",
+				"b4:grid:container\tcontainer"
+			],
+			[
+				"b4col",
+				"b4:grid:col\tcol"
+			],
+			[
+				"b4conta",
+				"b4:grid:container_fluid\tcontainer_fluid"
+			],
+			[
+				"dir",
+				"direct-to-mp3-convert"
+			],
+			[
+				"as",
+				"asset('/js"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"is_",
+				"is_hide"
+			],
+			[
+				"v-f",
+				"v-if"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"add",
+				"add-lyrci-modal"
+			],
+			[
+				"addLy",
+				"addLyricNull"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"set-d",
+				"set-dmca-success"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"da",
+				"datepicker"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"Cac",
+				"Cache::put\tStore an item in the Cache (key, value, minutes)"
+			],
+			[
+				"Ca",
+				"Cache::get\tRetrieve an Item from the Cache"
+			],
+			[
+				"is_n",
+				"is_null〔function〕"
+			],
+			[
+				"templ",
+				"$templateName〔variable〕"
+			],
+			[
+				"tem",
+				"$templateName〔variable〕"
+			],
+			[
+				"ids",
+				"$idsDB〔variable〕"
+			],
+			[
+				"id",
+				"$idsDB〔variable〕"
+			],
+			[
+				"ch",
+				"$chaps〔variable〕"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"m",
+				"$merge〔variable〕"
+			],
+			[
+				"stor",
+				"story_id"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"story",
+				"$story_id〔variable〕"
+			],
+			[
+				"vide",
+				"video_id"
+			],
+			[
+				"login",
+				"login-btn"
+			],
+			[
+				"redire",
+				"redirectTo"
+			],
+			[
+				"main",
+				"main_content"
+			],
+			[
+				"he",
+				"$header〔variable〕"
+			],
+			[
+				"sa",
+				"statics"
+			],
+			[
+				"pa",
+				"parts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/CSN/SongController.php",
+			"settings":
+			{
+				"buffer_size": 5714,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/template-pc/blocks/mainbar.blade.php",
+			"settings":
+			{
+				"buffer_size": 111,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/template-pc/blocks/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/template-pc/blocks/sidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 114,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Models/Song.php",
+			"settings":
+			{
+				"buffer_size": 588,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/template-pc/song.blade.php",
+			"settings":
+			{
+				"buffer_size": 996,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
+			"settings":
+			{
+				"buffer_size": 8466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/source/lagu123/resources/views/lagu123/search.blade.php",
+			"settings":
+			{
+				"buffer_size": 1342,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/source/lagu123/public/file.lagu123.com/index.php",
+			"settings":
+			{
+				"buffer_size": 11826,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 771,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Library/Helper.php",
+			"settings":
+			{
+				"buffer_size": 2002,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/CSN/SearchController.php",
+			"settings":
+			{
+				"buffer_size": 4145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"Snippet: Adds remember_token as VARCHAR(100) NULL"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"rvp",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ColorSchemeEditor",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"php",
+				"phpfmt: getter and setter (Go)"
+			],
+			[
+				"vp",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"v",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pcv",
+				"Package Control: Remove Package"
+			],
+			[
+				"doc",
+				"Snippet: Start Docblock"
+			]
+		],
+		"width": 604.0
+	},
+	"console":
+	{
+		"height": 135.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"texify -v",
+			"php artisan",
+			"php -v",
+			"let a;"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/source",
+		"/D/source/lagu123",
+		"/D/source/lagu123/app",
+		"/D/source/lagu123/app/Http",
+		"/D/source/lagu123/app/Http/Controllers",
+		"/D/source/lagu123/app/Http/Controllers/Youtube",
+		"/D/source/lagu123/public",
+		"/D/source/lagu123/public/file.lagu123.com",
+		"/D/source/lagu123/resources",
+		"/D/source/lagu123/resources/views",
+		"/D/source/lagu123/resources/views/lagu123",
+		"/D/source/laravel",
+		"/D/source/laravel/blog",
+		"/D/source/laravel/blog/app",
+		"/D/source/laravel/blog/app/Exceptions",
+		"/D/source/laravel/blog/app/Http",
+		"/D/source/laravel/blog/app/Http/Controllers",
+		"/D/source/laravel/blog/app/Http/Controllers/CSN",
+		"/D/source/laravel/blog/app/Models",
+		"/D/source/laravel/blog/database",
+		"/D/source/laravel/blog/database/migrations",
+		"/D/source/laravel/blog/public",
+		"/D/source/laravel/blog/public/css",
+		"/D/source/laravel/blog/resources",
+		"/D/source/laravel/blog/resources/assets",
+		"/D/source/laravel/blog/resources/assets/js",
+		"/D/source/laravel/blog/resources/assets/js/components",
+		"/D/source/laravel/blog/resources/assets/sass",
+		"/D/source/laravel/blog/resources/views",
+		"/D/source/laravel/blog/resources/views/template-pc",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks"
+	],
+	"file_history":
+	[
+		"/D/source/laravel/blog/resources/views/template-pc/search.blade.php",
+		"/D/source/laravel/blog/resources/assets/js/components/ExampleComponent.vue",
+		"/D/source/laravel/blog/resources/views/template-pc/layout.blade.php",
+		"/D/source/laravel/blog/public/css/app.css",
+		"/D/source/laravel/blog/config/app.php",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/mainbar.blade.php",
+		"/D/source/laravel/blog/routes/web.php",
+		"/D/source/laravel/blog/app/Models/Song.php",
+		"/D/source/lagu123/.env",
+		"/C/Users/Ok PC/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+		"/C/Users/Ok PC/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+		"/D/source/laravel/blog/database/migrations/2018_06_28_070441_create_songs.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
+		"/D/source/lagu123/app/Library/Services/Glob.php",
+		"/D/source/lagu123/public/css/lagu9.scss",
+		"/D/source/lagu123/resources/views/lagu9/block/style.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/search.blade.php",
+		"/D/source/lagu123/resources/views/lagu9/search.blade.php",
+		"/D/source/lagu123/routes/web.php",
+		"/D/source/lagu123/public/css/app.scss",
+		"/D/source/lagu123/resources/views/lagu123/layout/includes/meta.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/SongController.php",
+		"/D/source/lagu123/public/js/js.js",
+		"/D/source/lagu123/resources/views/lagu123/download.blade.php",
+		"/D/source/laravel/blog/app/Library/Helper.php",
+		"/D/source/laravel/blog/app/Exceptions/SongException.php",
+		"/D/source/laravel/blog/app/Models/Relation.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/source/lagu123/config/app.php",
+		"/C/Users/Ok PC/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/nqvVN.tmTheme",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Database/Query/JoinClause.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/D/source/laravel/blog/database/migrations/2018_06_28_075152_create_relations.php",
+		"/D/source/laravel/blog/app/Providers/GlobalServiceProvider.php",
+		"/D/source/laravel/blog/composer.json",
+		"/D/source/phpBB3/.htaccess",
+		"/D/webserver/nginx/conf/config/goo.conf",
+		"/D/webserver/nginx/conf/config/g.com.conf",
+		"/D/webserver/nginx/conf/config/i.conf",
+		"/C/Users/Ok PC/Desktop/note.txt",
+		"/D/source/lagu123/resources/views/lagu9/lagu9dl.blade.php",
+		"/D/source/lagu123/resources/views/lagu9/lagu9dll.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/Admin/GenreController.php",
+		"/D/source/lagu123/resources/views/lagu9/app.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/main.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/admin/genre-show.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/Admin/TopController.php",
+		"/D/source/lagu123/resources/views/lagu9/main.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/API/GenreController.php",
+		"/D/source/lagu123/resources/views/lagu123/admin/genre.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/layout/app.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/song.blade.php",
+		"/D/source/lagu123/app/Models/Dmca.php",
+		"/D/source/lagu123/resources/views/lagu123/admin/top.blade.php",
+		"/D/source/lagu123/public/js/admin.vue.js",
+		"/D/source/lagu123/resources/views/lagu123/layout/confirm.blade.php",
+		"/D/source/lagu123/app/Models/Genre.php",
+		"/D/source/lagu123/public/js/genre.js",
+		"/D/source/lagu123/resources/views/lagu123/layout/admin.blade.php",
+		"/D/source/lagu123/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/source/lagu123/routes/api.php",
+		"/D/source/lagu123/config/auth.php",
+		"/D/source/lagu123/app/Providers/AppServiceProvider.php",
+		"/D/source/lagu123/composer.json",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/D/source/example/wattpad/blog/resources/assets/sass/app.scss",
+		"/D/source/example/wattpad/blog/resources/views/template-pc/chap.blade.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/D/source/example/wattpad/blog/app/Http/Controllers/Wattpad/ChapController.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php",
+		"/D/source/lagu123/vendor/symfony/http-foundation/RedirectResponse.php",
+		"/D/source/example/wattpad/blog/routes/web.php",
+		"/D/source/example/wattpad/blog/app/Exceptions/ChapException.php",
+		"/D/source/lagu123/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/D/source/lagu123/vendor/symfony/console/Helper/Helper.php",
+		"/D/source/example/wattpad/blog/database/migrations/2018_04_30_225936_create_chap.php",
+		"/D/source/example/wattpad/blog/database/migrations/2018_05_26_033039_create_content.php",
+		"/D/source/example/wattpad/blog/database/migrations/2018_05_06_061130_create_stories.php",
+		"/D/source/example/wattpad/blog/resources/views/template-pc/errors/chap.blade.php",
+		"/D/source/example/wattpad/blog/resources/views/template-pc/includes/style.blade.php",
+		"/D/source/example/wattpad/blog/app/Models/Chap.php",
+		"/D/source/cacha.php",
+		"/D/source/c1.txt",
+		"/D/source/example/wattpad/blog/app/Http/Controllers/Wattpad/StoryController.php",
+		"/D/source/example/wattpad/blog/app/Models/Part.php",
+		"/D/source/example/wattpad/blog/app/Models/Story.php",
+		"/D/source/example/wattpad/blog/app/Models/Content.php",
+		"/D/source/c2.txt",
+		"/D/source/final.txt",
+		"/D/source/lagu123/config/glob.php",
+		"/D/source/lagu123/app/Http/Controllers/Youtube/IndexController.php",
+		"/D/source/main.txt",
+		"/D/source/cacha.txt",
+		"/D/source/lagu123/public/js/cache/top2017.js",
+		"/D/source/lagu123/resources/views/layout/confirm.blade.php",
+		"/D/source/laravel/blog/config/youtubeapikey.php",
+		"/D/source/lagu123/resources/views/lagu9/lagu9dlvideo.blade.php",
+		"/D/source/laravel/blog/app/Http/Controllers/CSN/SongController.php",
+		"/D/source/lagu123/resources/views/lagu123/download-video.blade.php",
+		"/D/code/PROJECT/gassc/lib/jquery.js",
+		"/C/Users/Ok PC/AppData/Local/Temp/Rar$DIa3920.5805/tags.php",
+		"/C/Users/Ok PC/AppData/Local/Temp/Rar$DIa3616.46485/tags.php",
+		"/D/source/lagu123/resources/views/lagu123/top-lagu-terbaru.blade.php",
+		"/D/source/lagu123/resources/views/lagu123/top-download-indonesia.blade.php",
+		"/D/source/curl.php",
+		"/D/source/lagu123/public/css/app.min.css",
+		"/D/code/PROJECT/gassc/system/function.php",
+		"/D/source/cookie.txt",
+		"/D/code/PROJECT/gascsn/system/function.php",
+		"/D/code/ka4ka.php",
+		"/D/code/h.json",
+		"/D/code/cookie.txt",
+		"/D/source/laravel/blog/resources/assets/sass/app.scss",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/header.blade.php",
+		"/D/source/laravel/blog/resources/assets/sass/_variables.scss",
+		"/D/source/laravel/blog/.env",
+		"/D/source/laravel/blog/resources/views/template-pc/includes/style.blade.php",
+		"/D/source/laravel/blog/resources/assets/js/bootstrap.js",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/content.blade.php",
+		"/D/source/laravel/blog/package.json",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/sidebar.blade.php",
+		"/D/source/laravel/blog/resources/views/template-pc/index.blade.php",
+		"/D/source/laravel/blog/resources/views/template-pc/blocks/footer.blade.php",
+		"/D/source/laravel/blog/public/css/app.min.css",
+		"/D/source/laravel/blog/resources/views/layout.blade.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 181.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'] ",
+			"->",
+			"dd",
+			"rela_songs",
+			"songs",
+			"get_search_results",
+			"save_tmp_song",
+			"filter_related",
+			"update_link_play",
+			"dd",
+			"['",
+			"[",
+			";",
+			"] =",
+			"$songs[$key]",
+			"s[$key]",
+			"save_tmp_song",
+			"'[^';]*;",
+			"\\$table->\\w+\\(",
+			"$duration",
+			"tag",
+			"save_tag",
+			"variable",
+			"2CB801",
+			"join",
+			"'] = ",
+			" $relation[",
+			" = ",
+			"$relation->",
+			"->",
+			";",
+			"'] = ",
+			"$song[",
+			"$unique_id[0]",
+			";",
+			"'] =",
+			"$song['",
+			"$song->",
+			"$url",
+			"public",
+			"filter_id",
+			".home-btn a",
+			"$song->name",
+			"bg",
+			"bg\\-v",
+			"bg-v",
+			"{{",
+			"name",
+			"{{",
+			"categories",
+			"$song->",
+			"span",
+			"change_state_filter",
+			"category_",
+			"$category->",
+			"story",
+			".barheader",
+			"chap",
+			"ChapE",
+			"Chap",
+			"get_data_from_database",
+			"get_parts_from_database",
+			"current",
+			"result",
+			"data",
+			"get_and_save_content",
+			"$content",
+			"dd",
+			"$params",
+			"<input",
+			"get_hidden_fields",
+			"__FILE__",
+			"CMT",
+			"capcha_cookie",
+			"$file",
+			"$this->curl",
+			"get_hidden_fields",
+			"_GET",
+			"dd",
+			"slug",
+			"get_contents",
+			"get_data_from_api",
+			"Request",
+			"get_full_fields",
+			"$story",
+			"$op->info",
+			"ctl00$ctl12$g_e4936da3_53dd_4c77_b76a_b09e9bbed3f6$",
+			"update_listen",
+			"Functions",
+			"2KNOQADH",
+			"2KNOQADH-7s",
+			"butt",
+			"get_song",
+			"get_view_of_song_form_youtube_api",
+			"get_song_from_api_and_save_to_database",
+			"get_song",
+			"100px",
+			"100",
+			"180",
+			"gov",
+			"get",
+			"INSTANCE",
+			"mrc",
+			"$ch",
+			"most_d",
+			"rqh",
+			"hide",
+			"dl.js",
+			".sea",
+			"$json->",
+			"HIDE_ROW",
+			"type",
+			"def",
+			"permalink",
+			"mp3play",
+			"else",
+			"_method",
+			"add",
+			"this",
+			"jQuery",
+			"$",
+			"checkIdToConvert",
+			"addLyricNull",
+			"csrf",
+			"Filter",
+			"filters",
+			"HIDE_ROW",
+			"this.row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'];",
+			"];",
+			"$songs[$key][",
+			"\"><i class=\"fas$1\"></i> ",
+			"\"><i class=\"fas$1\"></i>",
+			"\\$$1",
+			"$$1",
+			"$song['$1']",
+			"42px",
+			" = ",
+			"$this->description->",
+			", ",
+			"mysqli_query($glob->db, $1)",
+			"mysqli_query($1)",
+			"mysqli_query($1, $glob->db)",
+			"mysql_query($1, $glob->db)",
+			"mysqli_$1($2, $glob->db)",
+			"num_rows",
+			"//lagu-ku.net/download-lagu-$2/$1.html",
+			"\")",
+			"(\"",
+			"),",
+			"(",
+			"",
+			"Mp3Convert.tube",
+			"Mp3Convert.com",
+			"",
+			"$song['$1']",
+			"$song['$1'",
+			"$song[$1]",
+			"downloadlagu-mp3",
+			"'Open Sans'",
+			".info",
+			"_POST"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/CSN/SongController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/template-pc/blocks/mainbar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/template-pc/blocks/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/template-pc/blocks/sidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Models/Song.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/template-pc/song.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/source/lagu123/app/Http/Controllers/Youtube/SearchController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2673,
+								2673
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2054.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/source/lagu123/resources/views/lagu123/search.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1312,
+								924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/source/lagu123/public/file.lagu123.com/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2323,
+								2323
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1638.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/assets/sass/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/Library/Helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 398.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/Http/Controllers/CSN/SearchController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								414
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 223.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 135.0
+	},
+	"pinned_build_system": "",
+	"project": "la.sublime-project",
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"\\Illuminate\\Http\\Request",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Request.php"
+			],
+			[
+				"Database\\Bui",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php"
+			],
+			[
+				"Query/JoinClause",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\JoinClause.php"
+			],
+			[
+				"Eloquent\\Mo",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"Middleware/Authenticate",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php"
+			],
+			[
+				"container ill",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php"
+			],
+			[
+				"Exception ill",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Debug\\ExceptionHandler.php"
+			],
+			[
+				"helper.php illu",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php"
+			],
+			[
+				"Redirect.php",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Redirect.php"
+			],
+			[
+				"Redirect",
+				"lagu123\\vendor\\symfony\\http-foundation\\RedirectResponse.php"
+			],
+			[
+				"IllHelper",
+				"lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"Helper",
+				"lagu123\\vendor\\symfony\\console\\Helper\\Helper.php"
+			],
+			[
+				"RedirectR",
+				"lagu123\\vendor\\symfony\\http-foundation\\RedirectResponse.php"
+			],
+			[
+				"pagina",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Pagination\\Paginator.php"
+			],
+			[
+				"Auth",
+				"blog\\config\\auth.php"
+			],
+			[
+				"Routing\\R",
+				"blog\\vendor\\symfony\\routing\\Router.php"
+			],
+			[
+				"helpers.php",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php"
+			],
+			[
+				"Eloquent\\Bui",
+				"source\\example\\wattpad\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php"
+			],
+			[
+				"Eloquent\\Model.php",
+				"source\\example\\wattpad\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"Eloquent\\M",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"View\\FileViewFinder",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\View\\FileViewFinder.php"
+			],
+			[
+				"View\\Fa",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Factory.php"
+			],
+			[
+				"Ciew\\Factory",
+				"blog\\vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\View\\Factory.php"
+			],
+			[
+				"Illuminate\\Support\\ServiceProvider",
+				"source\\lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+			],
+			[
+				"support\\he",
+				"source\\lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php"
+			],
+			[
+				"helper .php",
+				"source\\lagu123\\vendor\\mockery\\mockery\\library\\helpers.php"
+			],
+			[
+				"Exceptions\\Handler",
+				"source\\lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"Exception\\Han",
+				"source\\lagu123\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 812.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 412.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
